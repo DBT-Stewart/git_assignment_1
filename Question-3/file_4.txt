@@ -1,1 +1,2 @@
 We have created a feature branch namely feature-B
+Line 2 in the file in feature branch
