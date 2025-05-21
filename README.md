@@ -1,5 +1,4 @@
 # git_assignment_1
-I've done and uploaded the Q3 and Q4 in same folder "Question-3"
 Git Based Assignments - 1 (with 5 questions)
 
 Question 1
